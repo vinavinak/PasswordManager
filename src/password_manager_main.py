@@ -14,6 +14,8 @@ from tkinter import messagebox
 import pyperclip
 import random
 
+
+
 DEFAULT_EMAIL = "xxx@xxx.com"
 APP_LOGO = 'logo2.png'
 MY_SECRETS = 'my_password.txt'
@@ -79,6 +81,8 @@ class PasswordManager:
                     self.website_entry.delete(0, END)
                     self.password_entry.delete(0, END)
 
+
+
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 #Password Generator Project
     def generate_password(self):
@@ -114,6 +118,10 @@ def main():
 
 if __name__ == '__main__':
     main().mainloop()
+
+
+
+
 
 
 
