@@ -16,6 +16,8 @@ import random
 
 
 
+
+
 DEFAULT_EMAIL = "xxx@xxx.com"
 APP_LOGO = 'logo2.png'
 MY_SECRETS = 'my_password.txt'
