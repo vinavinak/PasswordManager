@@ -7,11 +7,11 @@ Try it now!
 
 #### PasswordManager GUI
 
-![app preview](https://user-images.githubusercontent.com/4502089/162113351-0cc985b4-3212-4402-babd-38f2f19ac269.PNG)
+![app preview](https://user-images.githubusercontent.com/74083216/171438414-9dc69010-0df2-4b33-9944-ae6401b7d5c9.png)
 
 #### PasswordManager Unitest
 
-![app test](https://user-images.githubusercontent.com/4502089/162113384-93884f2f-c427-4289-8e26-292b45c8a274.PNG)
+![app test](https://user-images.githubusercontent.com/74083216/171444823-4c480e8b-45a2-4ac5-a996-b965035f0d38.png)
 
 ## Quick-start
 
@@ -52,7 +52,10 @@ Notes:
 ```
 set PYTHONPATH=src
 ```
-
+In OS:
+```
+export PYTHONPATH="src"
+```
 ## Python Dependencies
 
 Please refer to requirements.txt and install all the required packages by 

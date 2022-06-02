@@ -19,7 +19,7 @@ import random
 
 
 DEFAULT_EMAIL = "xxx@xxx.com"
-APP_LOGO = 'logo2.png'
+APP_LOGO = 'logo_pic.png'
 MY_SECRETS = 'my_password.txt'
 
 class PasswordManager:
